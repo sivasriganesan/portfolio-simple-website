@@ -66,7 +66,4 @@ Modify colors, fonts, or spacing in CSS.
 
 Add more sections (e.g., Projects, Skills) or JS for extra interactivity.
 
-📬 Contact
-Ready to connect?
-Email me at your.email@example.com or use the Contact page.
 
