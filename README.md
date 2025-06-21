@@ -1,5 +1,4 @@
-🌐 Personal Portfolio
-A simple and elegant 2-page portfolio website crafted using only HTML5 & CSS3, designed to clearly showcase your identity and contact info.
+My Personal Portfolio
 
 📄 Pages Overview
 Home Page
